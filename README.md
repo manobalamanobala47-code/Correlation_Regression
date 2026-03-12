@@ -58,7 +58,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
-# Result
+# Output:
 <img width="824" height="649" alt="image" src="https://github.com/user-attachments/assets/b18bac1b-9b41-46ac-a140-9e2d14ec6465" />
 
-# Output 
+# result:
+
